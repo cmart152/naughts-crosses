@@ -1,6 +1,7 @@
 # frozen_string_literal: true
 
 class User
+var = test
   attr_reader :name
   attr_accessor :score
 
